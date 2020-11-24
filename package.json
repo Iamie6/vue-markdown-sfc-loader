@@ -1,0 +1,29 @@
+{
+  "name": "vue-markdown-sfc-loader",
+  "version": "0.0.1",
+  "description": "markdown to sfc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamie6/vue-markdown-sfc-loader.git"
+  },
+  "keywords": [
+    "vue",
+    "markdown",
+    "sfc"
+  ],
+  "author": "igetter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iamie6/vue-markdown-sfc-loader/issues"
+  },
+  "homepage": "https://github.com/Iamie6/vue-markdown-sfc-loader#readme",
+  "dependencies": {
+    "highlight.js": "^10.3.2",
+    "markdown-it": "^12.0.2",
+    "marked": "^1.2.4"
+  }
+}
